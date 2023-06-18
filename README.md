@@ -8,12 +8,12 @@ as output.
 Clone the repo to your local machine:
 
 ```bash
-https://github.com/Tar8117/foodgram-project-react.git
+https://github.com/Tar8117/PDFtoMP3.git
 ```
 
 OR within SSH use this link to clone:
 ```bash
-git@github.com:Tar8117/foodgram-project-react.git
+git@github.com:Tar8117/PDFtoMP3.git
 ```
 
 Create and activate the venv:
